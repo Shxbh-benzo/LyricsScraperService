@@ -17,7 +17,7 @@ A high-performance, parallel lyrics scraping system using Node.js worker threads
 ### Prerequisites
 
 - Node.js v16.0.0 or higher
-- SQLite3 (Optional - for direct database interaction)
+- SQLite3
 
 ### Setup
 
