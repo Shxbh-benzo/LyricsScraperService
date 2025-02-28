@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-02-23T23:22:34.381Z",
+  "processed": [
+    "The_Weeknd-Blinding_Lights",
+    "The_Weeknd-Can't_Feel_My_Face",
+    "The_Weeknd-Die_For_You",
+    "The_Weeknd-Call_Out_My_Name",
+    "The_Weeknd-Often",
+    "The_Weeknd-Earned_It",
+    "The_Weeknd-After_Hours",
+    "The_Weeknd-The_Hills",
+    "The_Weeknd-Save_Your_Tears",
+    "The_Weeknd-Starboy"
+  ],
+  "failed": [],
+  "stats": {
+    "processed": 10,
+    "failed": 0,
+    "retries": 0,
+    "startTime": 1740352933774,
+    "lastCheckpoint": null,
+    "actualProcessed": 10,
+    "totalTasks": 10
+  }
+}

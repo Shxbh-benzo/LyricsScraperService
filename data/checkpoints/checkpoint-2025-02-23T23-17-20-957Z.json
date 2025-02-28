@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-02-23T23:17:20.957Z",
+  "processed": [
+    "Lana_Del_Rey-Video_Games",
+    "Lana_Del_Rey-Born_To_Die",
+    "Lana_Del_Rey-West_Coast",
+    "Lana_Del_Rey-National_Anthem",
+    "Lana_Del_Rey-High_By_The_Beach",
+    "Lana_Del_Rey-Young_and_Beautiful",
+    "Lana_Del_Rey-Blue_Jeans",
+    "Lana_Del_Rey-Radio",
+    "Lana_Del_Rey-Brooklyn_Baby",
+    "Lana_Del_Rey-Summertime_Sadness",
+    "Lana_Del_Rey-Venice_Bitch",
+    "Lana_Del_Rey-Mariners_Apartment_Complex",
+    "Lana_Del_Rey-Diet_Mountain_Dew",
+    "Lana_Del_Rey-Ride",
+    "Lana_Del_Rey-Off_to_the_Races",
+    "Lana_Del_Rey-Carmen",
+    "Lana_Del_Rey-Million_Dollar_Man",
+    "Lana_Del_Rey-Cola",
+    "Lana_Del_Rey-Gods_&_Monsters",
+    "Lana_Del_Rey-Dark_Paradise"
+  ],
+  "failed": [],
+  "stats": {
+    "processed": 40,
+    "failed": 0,
+    "retries": 0,
+    "startTime": 1740352556236,
+    "lastCheckpoint": "2025-02-23T23:17:02.211Z"
+  }
+}

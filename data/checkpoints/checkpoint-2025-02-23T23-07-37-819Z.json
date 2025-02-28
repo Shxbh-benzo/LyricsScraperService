@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-02-23T23:07:37.819Z",
+  "processed": [
+    "Drake-Over",
+    "Drake-Forever",
+    "Drake-Find_Your_Love",
+    "Drake-Nonstop",
+    "Drake-Started_From_the_Bottom",
+    "Drake-Passionfruit",
+    "Drake-Shot_For_Me",
+    "Drake-God's_Plan",
+    "Drake-Hotline_Bling",
+    "Drake-One_Dance",
+    "Drake-Hold_On,_We're_Going_Home",
+    "Drake-Best_I_Ever_Had",
+    "Drake-Headlines",
+    "Drake-Nice_For_What",
+    "Drake-Take_Care",
+    "Drake-Marvin's_Room",
+    "Drake-In_My_Feelings",
+    "Drake-Energy",
+    "Drake-Back_to_Back",
+    "Drake-The_Motto"
+  ],
+  "failed": [],
+  "stats": {
+    "processed": 40,
+    "failed": 0,
+    "startTime": 1740351974132,
+    "lastCheckpoint": "2025-02-23T23:07:15.656Z"
+  }
+}
